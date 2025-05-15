@@ -68,5 +68,5 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=github_dark&username=fancc31415" alt="Layout with last medium posts"  />
 </div>
-<script src="music.js"></script>
+<script src="/music.js"></script>
 ###
