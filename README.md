@@ -58,8 +58,8 @@
 ###
 
 <div align="center">
-  <a href src=下载.gif alt="Widget with the current Spotify song">  </a>
-  <img src="https://open.spotify.com/artist/7nmRhOssYMZVD1s66bI46y" alt="Layout with last medium posts"  />
+  <a href src="https://open.spotify.com/artist/7nmRhOssYMZVD1s66bI46y" alt="Widget with the current Spotify song">  
+  <img src="下载.gif" alt="Layout with last medium posts" ></a>
 </div>
 
 
