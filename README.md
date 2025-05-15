@@ -54,20 +54,18 @@
 
 ###
 
-<div align="left">
-  <script src="\fancc31415\music.js"></script>
-</div>
 
 ###
 
 <div align="center">
-  <img src="https://open.spotify.com/artist/7nmRhOssYMZVD1s66bI46y?" alt="Widget with the current Spotify song"  />
+  <a href src="https://open.spotify.com/artist/7nmRhOssYMZVD1s66bI46y" alt="Widget with the current Spotify song">  </a>
+  <img src=下载.gif alt="Layout with last medium posts"  />
 </div>
+
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=github_dark&username=fancc31415" alt="Layout with last medium posts"  />
-</div>
+  
 
 ###
