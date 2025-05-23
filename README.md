@@ -2,7 +2,10 @@
 
 ###
 
-<h3 align="left">My name is  Alma and I'm a code lover, from China</h3>
+
+###
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Alma+😊+%F0%9F%91%8B;👩🏻‍💻+Major+in+Computerscience.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
+
 
 ###
 
@@ -52,21 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-###
-
-
-###
-
+  
 <div align="center">
   <a href src="https://open.spotify.com/artist/7nmRhOssYMZVD1s66bI46y" >  
   <img src="下载.gif" alt="Layout with last medium posts" ></a>
   <li>🤞My spotify song -----artist:fanchuan🤞</li>
 </div>
 
-
-###
-
-<div align="center">
-  
-
-###
