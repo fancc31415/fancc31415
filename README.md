@@ -59,13 +59,11 @@
 
 <div align="center">
   <a href src="https://open.spotify.com/artist/7nmRhOssYMZVD1s66bI46y" >  
-  <img src="下载.gif" alt="Layout with last medium posts" ></a>
-  <li>🤞My spotify song -----artist:fanchuan🤞</li>
+ 
+  <li>🤞My spotify song -----artist:fanchuan🤞</li>  <img src="下载.gif" alt="Layout with last medium posts" ></a>
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fndakyv5hbocsxef2yke7zv54e)
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fndakyv5hbocsxef2yke7zv54e&count={5})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fndakyv5hbocsxef2yke7zv54e&width={400})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fndakyv5hbocsxef2yke7zv54e&unique={true})
+
   
 </div>
 
