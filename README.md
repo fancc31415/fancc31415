@@ -59,6 +59,7 @@
 
 
 <div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fancc&theme=dark&show_icons=true)
   </li>  <img src="下载.gif" alt="Layout with last medium posts" ></a> 
   <li>🤞My spotify song -----artist:fanchuan🤞
   
