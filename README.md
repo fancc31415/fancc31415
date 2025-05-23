@@ -62,5 +62,9 @@
   <img src="下载.gif" alt="Layout with last medium posts" ></a>
   <li>🤞My spotify song -----artist:fanchuan🤞</li>
   
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fancc)
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fancc={5})
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fancc&width={400})
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fanccv&unique={true})
 </div>
 
