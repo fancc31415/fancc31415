@@ -54,8 +54,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
-  ![暗色](https://raw.githubusercontent.com//fancc31415/fancc31415/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/fancc31415/fancc31415/output/github-contribution-grid-snake.svg)
+ ![暗色](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <a href src="https://open.spotify.com/artist/7nmRhOssYMZVD1s66bI46y" >  
   <img src="下载.gif" alt="Layout with last medium posts" ></a>
