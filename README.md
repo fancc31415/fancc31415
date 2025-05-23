@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
+<img src="welcome-header.gif" alt="Layout with last medium posts" >
 
 ###
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Alma+😊+%F0%9F%91%8B;👩🏻‍💻+Major+in+Computerscience.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
