@@ -58,9 +58,8 @@
  ![](https://raw.githubusercontent.com/fancc31415/fancc31415/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <a href src="https://open.spotify.com/artist/7nmRhOssYMZVD1s66bI46y" >  
- 
-  <li>🤞My spotify song -----artist:fanchuan🤞</li>  <img src="下载.gif" alt="Layout with last medium posts" ></a>
+  </li>  <img src="下载.gif" alt="Layout with last medium posts" ></a> 
+  <li>🤞My spotify song -----artist:fanchuan🤞
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fndakyv5hbocsxef2yke7zv54e)
 
