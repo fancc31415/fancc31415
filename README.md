@@ -1,5 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
+# 🌐 Fancc Tech Growth Portfolio
+[![24h Crisis Resolution](https://img.shields.io/badge/Personality-INFP-orange?logo=bug)](https://www.16personalities.com/profile)
+![Environment Setup](https://img.shields.io/badge/Collaboration-Specialist-green?style=flat-square)
+![Decision Engine](https://img.shields.io/badge/decisions-24h-red?logo=git)
+![Knowledge Palace](https://img.shields.io/badge/Continuous-Learner-gold?logo=book)
+[![Stars](https://img.shields.io/github/stars/Hespethorn/Hespethorn)](https://github.com/Hespethorn/Hespethorn)
 ###
 <img src="welcome-header.gif" alt="Layout with last medium posts" >
 
@@ -13,8 +17,16 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Cantonese<br>🎲 Fun fact: Pipi Mei& Pop Zi in their Dayly Life</p>
+## 💻 Technical Stack
+### 🔧 Development Capabilities
+- **Languages**  
+  ▸ 🐞 Java | 🚀python  | ⚡ C | 🌐 HTML | 📝 Markdown  
 
+- **Tools**  
+  ▸ 💻 VS Code | 🧩 Git  
+
+- **Platforms**  
+  ▸ 🐧 Linux | 🪟 Windows  
 ###
 
 <h2 align="left">I code with</h2>
@@ -58,16 +70,21 @@
  ![](https://raw.githubusercontent.com/fancc31415/fancc31415/output/github-contribution-grid-snake.svg)
 
 
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fancc&theme=dark&show_icons=true)
-  
+<div align="left">
+
+  ## ⭐ Professional Tags
+
+```text
+🤝 Collaboration Specialist | 🌐 Front-end Developer
+💡 Open Source Contributor  | 🔍 Tech Researcher | 📚 Continuous Learner    
+```  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hespethorn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt="水滴石穿" align="right" style="margin-bottom: 500px;"/>
+<!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#disable-rate-limit-protections从大佬这里copy的效果!-->
+
   </li>  <img src="下载.gif" alt="Layout with last medium posts" ></a> 
   <li>🤞My spotify song -----artist:fanchuan🤞
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fndakyv5hbocsxef2yke7zv54e)
-  
 
-  
 </div>
 
