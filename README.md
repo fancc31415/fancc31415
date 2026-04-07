@@ -1,5 +1,5 @@
 # 🌐 Fancc Tech Growth Portfolio
-[![24h Crisis Resolution](https://img.shields.io/badge/Personality-ESTP-orange?logo=bug)](https://www.16personalities.com/profile)
+[![24h Crisis Resolution](https://img.shields.io/badge/Personality-ENTP-orange?logo=bug)](https://www.16personalities.com/profile)
 ![Environment Setup](https://img.shields.io/badge/Collaboration-Specialist-green?style=flat-square)
 ![Decision Engine](https://img.shields.io/badge/decisions-24h-red?logo=git)
 ![Knowledge Palace](https://img.shields.io/badge/Continuous-Learner-gold?logo=book)
