@@ -1,5 +1,4 @@
 # 🌐 Fancc Tech Growth Portfolio
-[![24h Crisis Resolution](https://img.shields.io/badge/Personality-Who cares-orange?logo=bug)](https://www.16personalities.com/profile)
 ![Environment Setup](https://img.shields.io/badge/Collaboration-Specialist-green?style=flat-square)
 ![Decision Engine](https://img.shields.io/badge/decisions-24h-red?logo=git)
 ![Knowledge Palace](https://img.shields.io/badge/Continuous-Learner-gold?logo=book)
@@ -20,7 +19,7 @@
 ## 💻 Technical Stack
 ### 🔧 Development Capabilities
 - **Languages**  
-  ▸ 🐞 Java | 🚀python  | ⚡ C | 🌐 HTML | 📝 Markdown  
+  ▸ 🐞 Rust | 🚀python  | ⚡ C | 🌐 Vue | 📝 Markdown  
 
 - **Tools**  
   ▸ 💻 VS Code | 🧩 Git  
@@ -75,7 +74,7 @@
   ## ⭐ Professional Tags
 
 ```text
-🤝 Collaboration Specialist | 🌐 Front-end Developer
+🤝 Collaboration Specialist | 🌐 Web3 Developer
 💡 Open Source Contributor  | 🔍 Tech Researcher | 📚 Continuous Learner    
 ``` 
 
