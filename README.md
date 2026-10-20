@@ -7,7 +7,7 @@
 <img src="welcome-header.gif" alt="Layout with last medium posts" >
 
 ###
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Alma+😊+%F0%9F%91%8B;👩🏻‍💻+Major+in+Computerscience 🌈+English+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=Hi+%F0%9F%91%8B+I+am+Alma+%F0%9F%98%8A;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Major+in+Computer+Science+%F0%9F%8C%88+English+%E2%9C%A8;Open+Source+Enthusiast+%E2%9C%A8)
 
 <h2 align="left">About me ❤ Insight Sharer 🙆‍ </h2>
 
@@ -24,54 +24,58 @@
 <h2 align="left">I code with</h2>
 
 ###
-
-<div align="left">
-<h3>Languages</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-
-<h3>Frameworks & Libraries</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-
-<h3>Tools</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
-
-<h3>IDEs</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-
-<h3>Game Engines</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unreal engine logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" />
-
-<h3>LLMs</h3>
-<img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="claude logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="gemini logo" />
-<img width="12" />
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="40" alt="gpt logo" />
-</div>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="csharp logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="vuejs logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas logo" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="36" alt="anaconda logo" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>IDEs</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="visualstudio logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="36" alt="intellij logo" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Game Engines</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="unity logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="36" alt="unreal engine logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="36" alt="godot logo" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLMs</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/claude/D97757" height="36" alt="claude logo" />
+      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="36" alt="gemini logo" />
+      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="36" alt="gpt logo" />
+    </td>
+  </tr>
+</table>
 
  ![](https://raw.githubusercontent.com/fancc31415/fancc31415/output/github-contribution-grid-snake.svg)
 
