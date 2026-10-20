@@ -39,7 +39,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> Tech Stack
 
-<p align="center">
+<p align="left">
   <b>🍓 Languages</b><br/>
   <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/C%23-FFD1DC?style=flat&logo=dotnet&logoColor=512BD4" />
@@ -66,8 +66,7 @@
   <img src="https://img.shields.io/badge/Unity-FFDAC1?style=flat&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/Unreal_Engine-FFDAC1?style=flat&logo=unrealengine&logoColor=black" />
   <img src="https://img.shields.io/badge/Godot-FFDAC1?style=flat&logo=godotengine&logoColor=478CBF" />
-  <br/><br/>
-
+  <br/>
   <b>🍇 Platforms</b><br/>
   <img src="https://img.shields.io/badge/🪟_Windows-E0BBE4?style=flat" />
   <img src="https://img.shields.io/badge/macOS-E0BBE4?style=flat&logo=apple&logoColor=black" />
