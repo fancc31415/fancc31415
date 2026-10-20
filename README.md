@@ -108,7 +108,23 @@
     <img src="https://raw.githubusercontent.com/fancc31415/fancc31415/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
   </picture>
 </div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="30" /> Let's Connect
 
+<p align="center">
+  <b>🌸 Find me here</b><br/>
+  <a href="mailto:shifanchuan@gmail.com"><img src="https://img.shields.io/badge/📮_Email-FFD1DC?style=flat" /></a>
+  <a href="https://github.com/fancc31415"><img src="https://img.shields.io/badge/GitHub-FFD1DC?style=flat&logo=github&logoColor=black" /></a>
+  <a href="https://space.bilibili.com/你的UID"><img src="https://img.shields.io/badge/Bilibili-B5EAD7?style=flat&logo=bilibili&logoColor=00A1D6" /></a>
+  <a href="https://www.xiaohongshu.com/user/profile/你的ID"><img src="https://img.shields.io/badge/小红书-B5EAD7?style=flat&logo=xiaohongshu&logoColor=FF2442" /></a>
+  <a href="https://www.zhihu.com/people/你的ID"><img src="https://img.shields.io/badge/知乎-C7CEEA?style=flat&logo=zhihu&logoColor=0084FF" /></a>
+  <a href="https://juejin.cn/user/你的ID"><img src="https://img.shields.io/badge/掘金-C7CEEA?style=flat&logo=juejin&logoColor=007FFF" /></a>
+  <a href="https://blog.csdn.net/你的ID"><img src="https://img.shields.io/badge/CSDN-FFDAC1?style=flat&logo=csdn&logoColor=FC5531" /></a>
+  <a href="https://t.me/你的用户名"><img src="https://img.shields.io/badge/Telegram-FFDAC1?style=flat&logo=telegram&logoColor=26A5E4" /></a>
+  <a href="https://www.linkedin.com/in/你的ID"><img src="https://img.shields.io/badge/💼_LinkedIn-E0BBE4?style=flat" /></a>
+</p>
+
+<p align="center">
+  <sub>💌 Feel free to reach out — I'd love to chat about ideas, projects, or anything fun!</sub>
 <div align="center">
   <br/>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="24" />
