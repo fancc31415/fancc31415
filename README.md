@@ -18,81 +18,54 @@
 </div>
 
 ---
-
 ## 🙋‍♀️ About Me
 
 > ❤️ **Insight Sharer** · 🌃 The 2 AM Dev · 😊 Wonder Explorer
 >
-> I love building things with code, exploring AI, and sharing what I learn along the way.
+> I'm good at spotting new ideas, turning them into real projects, and sharing them with others.
+>
+> 💡 **Spot ideas** → 🛠️ **Build them** → 🌍 **Share them**
 
 ---
 
 ## 💻 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="170"><b>🚀 Languages</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" title="C#" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" title="Rust" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" title="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" title="CSS3" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="36" alt="Markdown" title="Markdown" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧱 Frameworks</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue.js" title="Vue.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas" title="Pandas" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧩 Tools</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm" title="npm" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="36" alt="Anaconda" title="Anaconda" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>💻 IDEs</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code" title="VS Code" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="36" alt="Visual Studio" title="Visual Studio" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎮 Game Engines</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="Unity" title="Unity" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="36" alt="Unreal Engine" title="Unreal Engine" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="36" alt="Godot" title="Godot" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 LLMs</b></td>
-    <td>
-      <img src="https://cdn.simpleicons.org/claude/D97757" height="36" alt="Claude" title="Claude" />
-      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="36" alt="Gemini" title="Gemini" />
-      <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="36" alt="GPT" title="GPT" />
-      &nbsp;😈 <i>Vibe coding</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🖥️ Platforms</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="36" alt="Windows" title="Windows" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" alt="macOS" title="macOS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
-      <img src="https://cdn.simpleicons.org/harmonyos/000000" height="36" alt="HarmonyOS" title="HarmonyOS" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">🚀 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cs,js,rust,html,css,md" />
+</p>
+
+<h3 align="center">🧱 Frameworks & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,nodejs,git,npm,anaconda" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+<h3 align="center">💻 IDEs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
+</p>
+
+<h3 align="center">🎮 Game Engines</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
+</p>
+
+<h3 align="center">🖥️ Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux" />
+  <br/>
+  <img src="https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=harmonyos&logoColor=white" />
+</p>
+
+<h3 align="center">🤖 LLMs & Vibe Coding</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/😈_Vibe_Coding-FF69B4?style=for-the-badge" />
+</p>
 
 ---
 
