@@ -40,36 +40,48 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> Tech Stack
 
 <p align="center">
-  <b>🍓 Languages</b><br/><br/>
-  <img src="https://img.shields.io/badge/🐍_Python-FFD1DC?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🎯_C%23-FFD1DC?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/⚡_JavaScript-FFD1DC?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🦀_Rust-FFD1DC?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🌐_HTML-FFD1DC?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🎨_CSS-FFD1DC?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/📝_Markdown-FFD1DC?style=flat" />
-  <b>🍃 Frameworks & Tools</b><br/><br/>
-  <img src="https://img.shields.io/badge/💚_Vue-B5EAD7?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🟢_Node.js-B5EAD7?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🐼_Pandas-B5EAD7?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🌿_Git-B5EAD7?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/📦_npm-B5EAD7?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🧪_Anaconda-B5EAD7?style=flat" />
-  <b>🫐 IDEs</b><br/><br/>
-  <img src="https://img.shields.io/badge/💙_VS_Code-C7CEEA?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/💜_Visual_Studio-C7CEEA?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🧠_IntelliJ-C7CEEA?style=flat" />
-  <b>🍑 Game Engines</b><br/><br/>
-  <img src="https://img.shields.io/badge/🎮_Unity-FFDAC1?style=flat" />&nbsp;
-  <b>🍇 Platforms</b><br/><br/>
-  <img src="https://img.shields.io/badge/🪟_Windows-E0BBE4?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🍎_macOS-E0BBE4?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🐧_Linux-E0BBE4?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/🌼_HarmonyOS-E0BBE4?style=flat" />
-  <b>🍋 LLMs & Vibe Coding</b><br/><br/>
-  <img src="https://img.shields.io/badge/🧡_Claude-FFF5BA?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/✨_Gemini-FFF5BA?style=flat" />&nbsp;
-  <img src="https://img.shields.io/badge/💬_GPT-FFF5BA?style=flat" />&nbsp;
+  <b>🍓 Languages</b><br/>
+  <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C%23-FFD1DC?style=flat&logo=dotnet&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-FFD1DC?style=flat&logo=rust&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-FFD1DC?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-FFD1DC?style=flat&logo=css&logoColor=663399" />
+  <img src="https://img.shields.io/badge/Markdown-FFD1DC?style=flat&logo=markdown&logoColor=black" />
+  <br/><br/>
+
+  <b>🍃 Frameworks & Tools</b><br/>
+  <img src="https://img.shields.io/badge/Vue-B5EAD7?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=flat&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Pandas-B5EAD7?style=flat&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Git-B5EAD7?style=flat&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/npm-B5EAD7?style=flat&logo=npm&logoColor=CB3837" />
+  <img src="https://img.shields.io/badge/Anaconda-B5EAD7?style=flat&logo=anaconda&logoColor=44A833" />
+  <br/><br/>
+
+  <b>🫐 IDEs</b><br/>
+  <img src="https://img.shields.io/badge/💙_VS_Code-C7CEEA?style=flat" />
+  <img src="https://img.shields.io/badge/💜_Visual_Studio-C7CEEA?style=flat" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-C7CEEA?style=flat&logo=intellijidea&logoColor=black" />
+  <br/><br/>
+
+  <b>🍑 Game Engines</b><br/>
+  <img src="https://img.shields.io/badge/Unity-FFDAC1?style=flat&logo=unity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-FFDAC1?style=flat&logo=unrealengine&logoColor=black" />
+  <img src="https://img.shields.io/badge/Godot-FFDAC1?style=flat&logo=godotengine&logoColor=478CBF" />
+  <br/><br/>
+
+  <b>🍇 Platforms</b><br/>
+  <img src="https://img.shields.io/badge/🪟_Windows-E0BBE4?style=flat" />
+  <img src="https://img.shields.io/badge/macOS-E0BBE4?style=flat&logo=apple&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-E0BBE4?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/HarmonyOS-E0BBE4?style=flat&logo=harmonyos&logoColor=black" />
+  <br/><br/>
+
+  <b>🍋 LLMs & Vibe Coding</b><br/>
+  <img src="https://img.shields.io/badge/Claude-FFF5BA?style=flat&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Gemini-FFF5BA?style=flat&logo=googlegemini&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/💬_GPT-FFF5BA?style=flat" />
   <img src="https://img.shields.io/badge/😈_Vibe_Coding-FFF5BA?style=flat" />
 </p>
 
