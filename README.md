@@ -48,8 +48,7 @@
   <img src="https://img.shields.io/badge/HTML-FFD1DC?style=flat&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS-FFD1DC?style=flat&logo=css&logoColor=663399" />
   <img src="https://img.shields.io/badge/Markdown-FFD1DC?style=flat&logo=markdown&logoColor=black" />
-  <br/><br/>
-
+  <br/>
   <b>🍃 Frameworks & Tools</b><br/>
   <img src="https://img.shields.io/badge/Vue-B5EAD7?style=flat&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Node.js-B5EAD7?style=flat&logo=nodedotjs&logoColor=5FA04E" />
@@ -57,14 +56,12 @@
   <img src="https://img.shields.io/badge/Git-B5EAD7?style=flat&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/npm-B5EAD7?style=flat&logo=npm&logoColor=CB3837" />
   <img src="https://img.shields.io/badge/Anaconda-B5EAD7?style=flat&logo=anaconda&logoColor=44A833" />
-  <br/><br/>
-
+  <br/>
   <b>🫐 IDEs</b><br/>
   <img src="https://img.shields.io/badge/💙_VS_Code-C7CEEA?style=flat" />
   <img src="https://img.shields.io/badge/💜_Visual_Studio-C7CEEA?style=flat" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-C7CEEA?style=flat&logo=intellijidea&logoColor=black" />
-  <br/><br/>
-
+  <br/>
   <b>🍑 Game Engines</b><br/>
   <img src="https://img.shields.io/badge/Unity-FFDAC1?style=flat&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/Unreal_Engine-FFDAC1?style=flat&logo=unrealengine&logoColor=black" />
@@ -76,8 +73,7 @@
   <img src="https://img.shields.io/badge/macOS-E0BBE4?style=flat&logo=apple&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-E0BBE4?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/HarmonyOS-E0BBE4?style=flat&logo=harmonyos&logoColor=black" />
-  <br/><br/>
-
+  <br/>
   <b>🍋 LLMs & Vibe Coding</b><br/>
   <img src="https://img.shields.io/badge/Claude-FFF5BA?style=flat&logo=claude&logoColor=D97757" />
   <img src="https://img.shields.io/badge/Gemini-FFF5BA?style=flat&logo=googlegemini&logoColor=8E75B2" />
