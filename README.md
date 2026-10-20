@@ -39,41 +39,55 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> Tech Stack
 
-<h3 align="center">🚀 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,js,rust,html,css,md&theme=light" />
+  <b>🍓 Languages</b><br/><br/>
+  <img src="https://img.shields.io/badge/🐍_Python-FFD1DC?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🎯_C%23-FFD1DC?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/⚡_JavaScript-FFD1DC?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🦀_Rust-FFD1DC?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🌐_HTML-FFD1DC?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🎨_CSS-FFD1DC?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/📝_Markdown-FFD1DC?style=flat" />
 </p>
 
-<h3 align="center">🧱 Frameworks & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nodejs,git,npm,anaconda&theme=light" />
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <b>🍃 Frameworks & Tools</b><br/><br/>
+  <img src="https://img.shields.io/badge/💚_Vue-B5EAD7?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🟢_Node.js-B5EAD7?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🐼_Pandas-B5EAD7?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🌿_Git-B5EAD7?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/📦_npm-B5EAD7?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🧪_Anaconda-B5EAD7?style=flat" />
 </p>
 
-<h3 align="center">💻 IDEs</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea&theme=light" />
+  <b>🫐 IDEs</b><br/><br/>
+  <img src="https://img.shields.io/badge/💙_VS_Code-C7CEEA?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/💜_Visual_Studio-C7CEEA?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🧠_IntelliJ-C7CEEA?style=flat" />
 </p>
 
-<h3 align="center">🎮 Game Engines</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot&theme=light" />
+  <b>🍑 Game Engines</b><br/><br/>
+  <img src="https://img.shields.io/badge/🎮_Unity-FFDAC1?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🏰_Unreal_Engine-FFDAC1?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🤖_Godot-FFDAC1?style=flat" />
 </p>
 
-<h3 align="center">🖥️ Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,apple,linux&theme=light" />
-  <br/>
-  <img src="https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=harmonyos&logoColor=white" />
+  <b>🍇 Platforms</b><br/><br/>
+  <img src="https://img.shields.io/badge/🪟_Windows-E0BBE4?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🍎_macOS-E0BBE4?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🐧_Linux-E0BBE4?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/🌼_HarmonyOS-E0BBE4?style=flat" />
 </p>
 
-<h3 align="center">🤖 LLMs & Vibe Coding</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/😈_Vibe_Coding-FF8FB1?style=for-the-badge" />
+  <b>🍋 LLMs & Vibe Coding</b><br/><br/>
+  <img src="https://img.shields.io/badge/🧡_Claude-FFF5BA?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/✨_Gemini-FFF5BA?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/💬_GPT-FFF5BA?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/😈_Vibe_Coding-FFF5BA?style=flat" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
