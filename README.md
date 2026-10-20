@@ -12,20 +12,20 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me ❤ Insight Sharer 🙆‍ </h2>
 
 ###
 
 ## 💻 Technical Stack
 ### 🔧 Development Capabilities
 - **Languages**  
-  ▸ 🐞 Rust | 🚀python  | ⚡ C | 🌐 Vue | 📝 Markdown  
+  ▸ 🚀python | ⚡ C# | 🌐 Vue | 📝 Markdown | 🐞 Rust
 
 - **Tools**  
-  ▸ 💻 VS Code | 🧩 Git  
+  ▸  🧩 Git | 😈 Vibe coding | 💻 VS Code
 
 - **Platforms**  
-  ▸ 🐧 Linux | 🪟 Windows  
+  ▸🪟 Windows |🍎Mac |🌼HarmonyOS |🐧 Linux 
 ###
 
 <h2 align="left">I code with</h2>
@@ -74,7 +74,8 @@
   ## ⭐ Professional Tags
 
 ```text
-🤝 Collaboration Specialist | 🌐 Web3 Developer
+🌃 The 2 AM Dev | 😊 Wonder Explorer
+🤝 Collaboration Specialist | 🌐 AI Developer    | 📹 The Microscopic Observer
 💡 Open Source Contributor  | 🔍 Tech Researcher | 📚 Continuous Learner    
 ``` 
 
