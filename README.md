@@ -39,7 +39,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> Tech Stack
 
-<p align="left">
+<p align="center">
   <b>🍓 Languages</b><br/>
   <img src="https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/C%23-FFD1DC?style=flat&logo=dotnet&logoColor=512BD4" />
